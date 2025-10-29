@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">hello</h1>
 
-<!--
-**alex000132/alex000132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/alex000132/alex000132/output/snake.svg" alt="Snake animation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+</div>
+
+###
+
+<h1 align="center">Ручная бурмалда</h1>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://otvet.imgsmail.ru/download/255019348_f30a72c98ee5df9c10c4456ebc600401_800.gif"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
